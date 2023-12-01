@@ -1,4 +1,4 @@
-# Girleane_Carla
+# Processamento_de_Imagem
 
 ## Descrição do Projeto:
 Este projeto tem a intenção de fazer capturas de imagens usando a webcam, em seguida treinar um modelo de banco de dados onde as imagens são guardadas e poderão ser reconhecidas através do algoritmo em Python e poderá ser reconhecido ou não.
